@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "scipy",
+  "repo": "oldest-supported-numpy",
+  "versions": [
+    {
+      "commit": "687ffc2f57e29ec7c74a28c58c247d16d0f6bee1",
+      "parsed_at": "2026-11-06T08:58:34.452358+00:00",
+      "filetree": "filetree/687ffc2f57e29ec7c74a28c58c247d16d0f6bee1.nq.gz",
+      "blobs": [
+        "blob/633538f1c9a98ebeb53925f7b8c8676dc2442b84.nq.gz",
+        "blob/2b6d0846cd86a39cc4ad71e27a79f4330a5deaf0.nq.gz",
+        "blob/d8f1eb1bf6bb2e3710593964caa3d6643e009c15.nq.gz",
+        "blob/7ffad827172b6fe54639d95d0458ba23f97ecbf5.nq.gz",
+        "blob/2b90bb6dfa738f1caeab246a38590a432df715c5.nq.gz",
+        "blob/b6ca80d6c56d6897f291a742bdc08b7ac608b6e7.nq.gz",
+        "blob/3b4a3a3343d472499793b66eb95f993ac5b55cea.nq.gz",
+        "blob/ea0c10623ebf589f7ae5e6ddbd5663b75f8d8dab.nq.gz",
+        "blob/3f7bc1ab73d3ffe6b8fc538a86238ce3d0dfd4e5.nq.gz",
+        "blob/c18dd8d83ceed1806b50b0aaa46beb7e335fff13.nq.gz",
+        "blob/15f6eb1f17855ac7ed52bcfdc55e38d9d35429b3.nq.gz",
+        "blob/2fb97ee7c154740cde01b573b1a2185e78b25bd9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
