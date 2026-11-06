@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scipy/oldest-supported-numpy/commit/687ffc2f57e29ec7c74a28c58c247d16d0f6bee1",
       "git:hexsha": "687ffc2f57e29ec7c74a28c58c247d16d0f6bee1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scipy/oldest-supported-numpy/commit/1ca6bc97ef57ad152e83881436a4cbe296ca4aeb",
