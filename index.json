@@ -1,0 +1,11 @@
+{
+  "org": "scipy",
+  "repo": "oldest-supported-numpy",
+  "versions": [
+    {
+      "commit": "687ffc2f57e29ec7c74a28c58c247d16d0f6bee1",
+      "tag": "",
+      "parsed_at": "2026-11-06T09:00:28.230347+00:00"
+    }
+  ]
+}
